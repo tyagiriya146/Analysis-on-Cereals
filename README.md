@@ -4,5 +4,4 @@ Understand what goes into the rating of a cereal, and what's the preferred type 
 
 - Improving my skills as a junior data analyst.
 - Explore different solutions and it's prons and cons.
-- Working with null values and fixing it.
 - Learned to work with small datasets.
